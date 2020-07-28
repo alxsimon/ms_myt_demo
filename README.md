@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/alxsimon/ms_myt_demo/tree/gh-pages) branch hosts the contents of this directory at <https://alxsimon.github.io/ms_myt_demo/>.
-The permalink for this webpage version is <https://alxsimon.github.io/ms_myt_demo/v/d95a0b7f23b792d0d7ec28524c23b2437a931d05/>.
+The permalink for this webpage version is <https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://alxsimon.github.io/ms_myt_demo/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d95a0b7f23b792d0d7ec28524c23b2437a931d05`](https://github.com/alxsimon/ms_myt_demo/commit/d95a0b7f23b792d0d7ec28524c23b2437a931d05).
+[`3abc11f2540d84351aaccd8c1128b5a277d0c579`](https://github.com/alxsimon/ms_myt_demo/commit/3abc11f2540d84351aaccd8c1128b5a277d0c579).
