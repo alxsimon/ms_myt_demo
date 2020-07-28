@@ -1,17 +1,17 @@
 ---
-title: "Manuscript Title"
+title: "*Mytilus* demographic inference"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - *Mytilus*
+  - demographic inference
+  - hybridization
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: alxsimon
+    name: Alexis Simon
+    initials: AS
+    orcid: 
+    twitter: 
+    email: 
     affiliations:
       - Department of Something, University of Whatever
     funders:
