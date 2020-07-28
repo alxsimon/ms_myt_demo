@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://alxsimon.github.io/ms_myt_demo/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/d95a0b7f23b792d0d7ec28524c23b2437a931d05/" />
+  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/" />
 
-  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/d95a0b7f23b792d0d7ec28524c23b2437a931d05/" />
+  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/d95a0b7f23b792d0d7ec28524c23b2437a931d05/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://alxsimon.github.io/ms_myt_demo/v/d95a0b7f23b792d0d7ec28524c23b2437a931d05/))
+([permalink](https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/))
 was automatically generated
-from [alxsimon/ms_myt_demo@d95a0b7](https://github.com/alxsimon/ms_myt_demo/tree/d95a0b7f23b792d0d7ec28524c23b2437a931d05)
+from [alxsimon/ms_myt_demo@3abc11f](https://github.com/alxsimon/ms_myt_demo/tree/3abc11f2540d84351aaccd8c1128b5a277d0c579)
 on July 28, 2020.
 </em></small>
 
@@ -138,7 +138,7 @@ on July 28, 2020.
 
 ## Abstract {.page_break_before}
 
-
+Abstract will go here.
 
 
 ## References {.page_break_before}
