@@ -1,8 +1,8 @@
 {
   "pandoc": {
-    "title": "Mytilus demographic inference",
+    "title": "<i>Mytilus</i> demographic inference",
     "keywords": [
-      "Mytilus",
+      "<i>Mytilus</i>",
       "demographic inference",
       "hybridization"
     ],
@@ -12,7 +12,7 @@
       "Alexis Simon",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Mytilus demographic inference\" />\n<meta name=\"citation_title\" content=\"Mytilus demographic inference\" />\n<meta property=\"og:title\" content=\"Mytilus demographic inference\" />\n<meta property=\"twitter:title\" content=\"Mytilus demographic inference\" />\n<meta name=\"dc.date\" content=\"2020-07-28\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-28\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Alexis Simon\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"None\" />\n<meta name=\"twitter:creator\" content=\"@None\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta property=\"og:url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta property=\"twitter:url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta name=\"citation_pdf_url\" content=\"https://alxsimon.github.io/ms_myt_demo/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://alxsimon.github.io/ms_myt_demo/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"&lt;i&gt;Mytilus&lt;/i&gt; demographic inference\" />\n<meta name=\"citation_title\" content=\"&lt;i&gt;Mytilus&lt;/i&gt; demographic inference\" />\n<meta property=\"og:title\" content=\"&lt;i&gt;Mytilus&lt;/i&gt; demographic inference\" />\n<meta property=\"twitter:title\" content=\"&lt;i&gt;Mytilus&lt;/i&gt; demographic inference\" />\n<meta name=\"dc.date\" content=\"2020-07-28\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-28\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Alexis Simon\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"None\" />\n<meta name=\"twitter:creator\" content=\"@None\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta property=\"og:url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta property=\"twitter:url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://alxsimon.github.io/ms_myt_demo/\" />\n<meta name=\"citation_pdf_url\" content=\"https://alxsimon.github.io/ms_myt_demo/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://alxsimon.github.io/ms_myt_demo/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -72,15 +72,15 @@
       "repo_slug": "alxsimon/ms_myt_demo",
       "repo_owner": "alxsimon",
       "repo_name": "ms_myt_demo",
-      "commit": "9005babe95b980144a22b28bfd31eb9a0a8bec2a",
-      "triggering_commit": "9005babe95b980144a22b28bfd31eb9a0a8bec2a",
-      "build_url": "https://github.com/alxsimon/ms_myt_demo/commit/9005babe95b980144a22b28bfd31eb9a0a8bec2a/checks",
+      "commit": "c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45",
+      "triggering_commit": "c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45",
+      "build_url": "https://github.com/alxsimon/ms_myt_demo/commit/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/checks",
       "job_url": "https://github.com/alxsimon/ms_myt_demo/runs/run3"
     },
     "html_url": "https://alxsimon.github.io/ms_myt_demo/",
     "pdf_url": "https://alxsimon.github.io/ms_myt_demo/manuscript.pdf",
-    "html_url_versioned": "https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/",
-    "pdf_url_versioned": "https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/manuscript.pdf",
+    "html_url_versioned": "https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/",
+    "pdf_url_versioned": "https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc",
     "manuscript_stats": {

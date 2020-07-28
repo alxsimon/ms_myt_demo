@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Mytilus demographic inference" />
+  <meta name="dc.title" content="&lt;i&gt;Mytilus&lt;/i&gt; demographic inference" />
 
-  <meta name="citation_title" content="Mytilus demographic inference" />
+  <meta name="citation_title" content="&lt;i&gt;Mytilus&lt;/i&gt; demographic inference" />
 
-  <meta property="og:title" content="Mytilus demographic inference" />
+  <meta property="og:title" content="&lt;i&gt;Mytilus&lt;/i&gt; demographic inference" />
 
-  <meta property="twitter:title" content="Mytilus demographic inference" />
+  <meta property="twitter:title" content="&lt;i&gt;Mytilus&lt;/i&gt; demographic inference" />
 
   <meta name="dc.date" content="2020-07-28" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://alxsimon.github.io/ms_myt_demo/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/" />
+  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/" />
 
-  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/" />
+  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,7 +85,7 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- Mytilus
+- <i>Mytilus</i>
 - demographic inference
 - hybridization
 lang: en-US
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Mytilus demographic inference
+title: <i>Mytilus</i> demographic inference
 ...
 
 
@@ -103,9 +103,9 @@ title: Mytilus demographic inference
 
 <small><em>
 This manuscript
-([permalink](https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/))
+([permalink](https://alxsimon.github.io/ms_myt_demo/v/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45/))
 was automatically generated
-from [alxsimon/ms_myt_demo@9005bab](https://github.com/alxsimon/ms_myt_demo/tree/9005babe95b980144a22b28bfd31eb9a0a8bec2a)
+from [alxsimon/ms_myt_demo@c6bfa45](https://github.com/alxsimon/ms_myt_demo/tree/c6bfa45b1c7fc237b76cc00fd6aa162033fc8c45)
 on July 28, 2020.
 </em></small>
 
