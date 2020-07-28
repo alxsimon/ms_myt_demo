@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Alexis Simon
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Mytilus demographic inference" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Mytilus demographic inference" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Mytilus demographic inference" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Mytilus demographic inference" />
 
   <meta name="dc.date" content="2020-07-28" />
 
@@ -39,13 +39,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Alexis Simon" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="None" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@None" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://alxsimon.github.io/ms_myt_demo/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/" />
+  <link rel="alternate" type="text/html" href="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/" />
+  <meta name="manubot_html_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +85,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- Mytilus
+- demographic inference
+- hybridization
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Mytilus demographic inference
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://alxsimon.github.io/ms_myt_demo/v/3abc11f2540d84351aaccd8c1128b5a277d0c579/))
+([permalink](https://alxsimon.github.io/ms_myt_demo/v/9005babe95b980144a22b28bfd31eb9a0a8bec2a/))
 was automatically generated
-from [alxsimon/ms_myt_demo@3abc11f](https://github.com/alxsimon/ms_myt_demo/tree/3abc11f2540d84351aaccd8c1128b5a277d0c579)
+from [alxsimon/ms_myt_demo@9005bab](https://github.com/alxsimon/ms_myt_demo/tree/9005babe95b980144a22b28bfd31eb9a0a8bec2a)
 on July 28, 2020.
 </em></small>
 
@@ -113,13 +113,9 @@ on July 28, 2020.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Alexis Simon**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [alxsimon](https://github.com/alxsimon)<br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
@@ -139,6 +135,9 @@ on July 28, 2020.
 ## Abstract {.page_break_before}
 
 Abstract will go here.
+
+
+## Introduction
 
 
 ## References {.page_break_before}
